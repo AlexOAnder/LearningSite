@@ -23,7 +23,7 @@ JS проявляется в обработке события нажатия к
 ```js
 <script type="text/javascript" src="../js/fileSave.js"></script> 
 ```
-Подгружает стороннюю библиотеку(скрипт) для сохранения результатов. 
+Подгружает стороннюю библиотеку(скрипт) для сохранения результатов. https://github.com/eligrey/FileSaver.js 
 Делается это в блоке 
 ```js
 	<script type="text/javascript">
