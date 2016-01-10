@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<mainModel>
+<courses>
+
+    <course>
+	  <courseId>22</courseId>
+      <courseName>English basic</courseName>
+      <courseCost caption="$">24</courseCost>
+      <courseDesc>Обучение с нуля</courseDesc>
+    </course>
+	<course>
+	  <courseId>52</courseId>
+      <courseName>English pre intermediate</courseName>
+      <courseCost caption="$">50</courseCost>
+      <courseDesc>Подготовка к сдаче экзаменов на preIntermediate</courseDesc>
+    </course>
+	<course>
+	  <courseId>1900</courseId>
+      <courseName>English Intermediate</courseName>
+      <courseCost caption="$">73</courseCost>
+      <courseDesc>Продвинутый уровень владения языком. Подготовка к сдаче международного экзамена</courseDesc>
+    </course>
+	<course>
+	  <courseId>1888</courseId>
+      <courseName>English "Master"</courseName>
+      <courseCost caption="$">120</courseCost>
+      <courseDesc>Подготовка к экзаменам на уровне мастера</courseDesc>
+    </course>
+</courses>
+</mainModel>
