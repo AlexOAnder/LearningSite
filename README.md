@@ -61,3 +61,5 @@ UML
 UML диаграмма вариантов использования
 ![image](https://cloud.githubusercontent.com/assets/10232613/12361181/b0d90596-bbcd-11e5-911f-2113c448d035.png)
 
+UML диаграмма последовательности
+![uml2](https://cloud.githubusercontent.com/assets/10232613/12380004/64c3074a-bd78-11e5-9fb9-7a506e2e7c5b.PNG)
